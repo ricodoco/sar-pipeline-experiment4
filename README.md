@@ -6,7 +6,8 @@ Identity Integration, and Anomaly Detection in a Small Local Language Model"
 
 **Companion paper (architecture):** "Natural Language Input, Semantic Track
 Representation, and LLM Inference: Making the Maritime Information Exchange
-Model Tractable" — available at SSRN [link].
+Model Tractable" — available at SSRN (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6880161).
+**This paper (experimental results):** SSRN abstract 6978398 (https://ssrn.com/abstract=6978398).
 
 **All materials are released to the public domain. No patents. No licensing.**
 
